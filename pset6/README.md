@@ -8,6 +8,7 @@ This is the problem set assigned for week six of Harvard's CS50 class in python.
 - If the user fails to provide a positive integer no greater than 8, you should re-prompt for the same again.
 - Then, generate (with the help of print and one or more loops) the desired half-pyramids.
 - Take care to left-align the bottom-left corner of the left-hand half-pyramid with the left-hand edge of your terminal window.
+[Back to main README](../README.md#harvard)
 
 ## Cash
 
@@ -16,6 +17,7 @@ This is the problem set assigned for week six of Harvard's CS50 class in python.
 - We ask that you use get_float so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program’s input will be 9.75 and not $9.75 or 975. However, if some customer is owed $9 exactly, assume that your program’s input will be 9.00 or just 9 but, again, not $9 or 900. Of course, by nature of floating-point values, your program will likely work with inputs like 9.0 and 9.000 as well; you need not worry about checking whether the user’s input is "formatted" like money should be.
 - If the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies.
 - Incidentally, so that we can automate some tests of your code, we ask that your program’s last line of output be only the minimum number of coins possible: an integer followed by ```\n```.
+[Back to main README](../README.md#harvard)
 
 ## Caesar-Cipher
 
@@ -41,4 +43,4 @@ This is the problem set assigned for week six of Harvard's CS50 class in python.
 - Your program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated, must remain lowercase letters.
 
 - After outputting ciphertext, you should print a newline.
-[Back](../README.md#harvard)
+[Back to main README](../README.md#harvard)
